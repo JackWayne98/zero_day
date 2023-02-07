@@ -1,0 +1,1 @@
+This file contains the answer to the uname file while it runs without additional arguments
